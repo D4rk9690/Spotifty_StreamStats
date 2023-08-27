@@ -1,6 +1,6 @@
 # Spotify Stats Webpage
 
-![Project Preview](project_preview.png) <!-- Add a preview image of your project here -->
+![Project Preview](spotify_logo.png) <!-- Add a preview image of your project here -->
 
 This project is a simulated Spotify stats webpage that displays information about your listening habits, including total minutes spent listening, total number of streams, most streamed artist, and top streamed tracks.
 
